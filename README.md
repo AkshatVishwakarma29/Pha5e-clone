@@ -2,7 +2,7 @@
 
 To Run this project,
 
-Clone The Repository using : git clone https://github.com/Ak-R01/Pha5e-Hero-Section.git
+Clone The Repository using : git clone https://github.com/AkshatVishwakarma29/Pha5e-clone.git
 
 Install the packages in the cloned folder using : npm i
 
